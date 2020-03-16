@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import ProfileMenu from "../profile-menu/profile-menu-component";
-import TagsHeader from "../tagsHeader/tags-header-component";
 
 const Header = () => {
     const [isOpen, setIsOpen] = useState(false);

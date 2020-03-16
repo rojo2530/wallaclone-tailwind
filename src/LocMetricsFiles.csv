@@ -1,0 +1,12 @@
+File,LOC,SLOC-P,SLOC-L,MVG,BLOC,C&SLOC,CLOC,CWORD,HCLOC,HCWORD
+C:\Users\USER-PC\proyectos\react\wallaclone-tailwind\src\App.js,16,13,6,0,3,0,0,0,0,0
+C:\Users\USER-PC\proyectos\react\wallaclone-tailwind\src\App.test.js,10,8,10,0,2,0,0,0,0,0
+C:\Users\USER-PC\proyectos\react\wallaclone-tailwind\src\index.js,13,7,7,0,3,0,3,30,0,0
+C:\Users\USER-PC\proyectos\react\wallaclone-tailwind\src\serviceWorker.js,142,98,62,10,13,2,31,277,9,89
+C:\Users\USER-PC\proyectos\react\wallaclone-tailwind\src\setupTests.js,6,1,1,0,1,0,4,20,4,20
+C:\Users\USER-PC\proyectos\react\wallaclone-tailwind\src\components\header\header.component.jsx,80,76,17,1,4,2,0,6,0,0
+C:\Users\USER-PC\proyectos\react\wallaclone-tailwind\src\components\profile-menu\profile-menu-component.jsx,31,27,8,1,4,0,0,0,0,0
+C:\Users\USER-PC\proyectos\react\wallaclone-tailwind\src\components\search-box\search-box-component.jsx,124,120,4,0,4,0,0,0,0,0
+C:\Users\USER-PC\proyectos\react\wallaclone-tailwind\src\components\tag-header\tag-header-component.jsx,19,16,12,0,3,0,0,0,0,0
+C:\Users\USER-PC\proyectos\react\wallaclone-tailwind\src\components\tagsHeader\tags-header-component.jsx,35,30,6,0,5,0,0,0,0,0
+C:\Users\USER-PC\proyectos\react\wallaclone-tailwind\src\pages\homepage\homepage.component.jsx,15,12,6,0,3,0,0,0,0,0

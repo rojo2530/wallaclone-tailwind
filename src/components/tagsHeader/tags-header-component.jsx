@@ -23,6 +23,7 @@ const TagsHeader = () => (
 							key={tag}
 							image="https://tailwindui.com/img/logos/transistor-logo.svg"
 							alt="Workcation"
+							url="#"
 						/>
 					))}
 				</div>
